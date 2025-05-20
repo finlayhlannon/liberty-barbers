@@ -386,7 +386,7 @@ nav ul li a:hover::after {
 .gallery-item {
     overflow: hidden;
     border-radius: 0;
-    height: 00px;
+    height: 450px;
     position: relative;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
